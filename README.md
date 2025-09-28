@@ -16,14 +16,12 @@ Este prototipo es una aplicación de consola en Python que ayuda a estudiantes a
    - 2 :Ver progreso acumulado.  
    - 3 : Salir.  
 
-> Nota: El archivo sesiones.csv se genera automáticamente al correr el programa por primera vez.
 
 
 
 ## Archivos del repositorio
 - prototipo.py: Código principal del prototipo.  
-- README.md: Este archivo con la documentación.  
-- sesiones.csv: (Se genera automáticamente al correr el programa).  
+- README.md: Este archivo con la documentación.    
 
 
 
