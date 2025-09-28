@@ -16,7 +16,7 @@ Este prototipo es una aplicación de consola en Python que ayuda a estudiantes a
    - 2 :Ver progreso acumulado.  
    - 3 : Salir.  
 
-> Nota: El archivo `sesiones.csv` se genera automáticamente al correr el programa por primera vez.
+> Nota: El archivo sesiones.csv se genera automáticamente al correr el programa por primera vez.
 
 
 
